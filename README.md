@@ -14,3 +14,5 @@ docker run -d -p 8080:8080 malaohu/charleslicense
 访问：http://ip:8080/charles/keygen/<name>
 例如：http://ip:8080/charles/keygen/malaohu
 ```
+
+核心代码参考自：https://gitee.com/thom/charles-keygen
